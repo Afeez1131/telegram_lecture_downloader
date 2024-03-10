@@ -1,8 +1,12 @@
 Here's the updated README.md file with corrections and additional information:
 
-# TELEGRAM FILE DOWNLOADER
+# TELEGRAM ISLAMIC LECTURE DOWNLOADER
 
-### Note: You must join the telegram channel before you can download from it using the script.
+## Plans:
+- If i could figure out a way to access telegram files outside the package I am using, I plan on developing a basic website.
+- Enhancing the script's user-friendliness, making it more interactive and intuitive for users to use.
+
+### Note: You must join the telegram channel you want to download from, before you can download from it using the script.
 
 | Channel Name                              | Link                                                 |
 | ---------------------------------------- |------------------------------------------------------|
@@ -42,6 +46,7 @@ API_HASH=YOUR_TELEGRAM_API_HASH
 ```bash
 python get_channels.py
 ```
+If prompted for your Phone number, enter your telegram phone number, then a code would be sent to it, which you would prompted to provide next.
 
 You should have a similar response to:
 ```bash
@@ -74,8 +79,6 @@ File downloaded: Dr. Sharafuddeen Raji Lectures\Al_Fiqhu_fil_Islam_246_Dr_Sharaf
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub: [telegram_lecture_downloader](https://github.com/Afeez1131/telegram_lecture_downloader)
 
-For any further assistance or inquiries, you can contact the developer at [lawalafeez052@gmail.com](mailto:lawalafeez052@gmail.com).
+For any further assistance or inquiries, you can contact me at [lawalafeez052@gmail.com](mailto:lawalafeez052@gmail.com).
 
 ```
-
-In step 10, I've added information about contributing and contacting the developer. Make sure to replace the placeholder email address with the actual contact email address of the developer.
