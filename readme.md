@@ -1,4 +1,4 @@
-# TELEGRAM ISLAMIC LECTURE DOWNLOADER
+# MUSLIM SCHOLARS LECTURE DOWNLOADER
 
 ## Plans:
 - If i could figure out a way to access telegram files outside the package I am using, I plan on developing a basic website.
