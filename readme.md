@@ -1,5 +1,3 @@
-Here's the updated README.md file with corrections and additional information:
-
 # TELEGRAM ISLAMIC LECTURE DOWNLOADER
 
 ## Plans:
